@@ -1,130 +1,163 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=JOHN%20VALENCIA&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descAlignY=65&descSize=15&descColor=8B949E"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+John+%F0%9F%91%8B;I+turn+ideas+into+software+%F0%9F%9A%80;Always+learning.+Always+building.;Welcome+to+my+GitHub."/>
+
+<br><br>
+
+<a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/> </a> &nbsp; <a href="mailto:TU_EMAIL"> <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </div> <br>
 <div align="center">
-👨‍💻 JOHN VALENCIA
-Software Developer • Problem Solver • Tech Enthusiast
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=180&section=header&text=John%20Valencia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> <br>
+01 — WHO AM I?
+</div> <table> <tr> <td width="60%" valign="top">
+👨‍💻 John Valencia
 
+I'm a developer who enjoys building things that work.
 
+I believe good software is more than just code.
+It's about solving problems, learning from mistakes and creating experiences that people actually want to use.
 
+<br>
+┌──────────────────────────────────────┐
+│                                      │
+│  > john.init()                       │
+│                                      │
+│  ✓ Developer                         │
+│  ✓ Problem Solver                    │
+│  ✓ Lifelong Learner                  │
+│  ✓ Technology Enthusiast             │
+│                                      │
+│  status: ONLINE                      │
+│                                      │
+└──────────────────────────────────────┘
 
+</td> <td width="40%" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
+<br><br>
 
-</div>
-<div align="center">
-⚡ Sobre mí
-</div> <table> <tr> <td width="55%">
-👋 ¡Hola!
+🇨🇴 Colombia
 
-Soy John Valencia, desarrollador apasionado por la tecnología, el desarrollo de software y la creación de soluciones.
-
-Me gusta aprender constantemente, experimentar con nuevas tecnologías y convertir ideas en proyectos funcionales.
-
-const john = {
-    name: "John Valencia",
-    role: "Developer",
-    location: "Colombia 🇨🇴",
-    mindset: "Always learning 🚀",
-    goal: "Build & improve"
-};
-
-</td> <td width="45%" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/> </td> </tr> </table>
-<div align="center">
-🧠 Tech Stack
-Languages
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-Backend & Database
-
-
-
-
-
-Tools
-
-
-
-
-
-</div>
-<div align="center">
-🚀 Featured Projects
-</div> <table> <tr> <td width="50%" align="center">
-🔥 Project One
-
-Una descripción corta e interesante de tu proyecto.
-
-Tech
-
-React Node.js MySQL
-
-🔗 Ver proyecto
-
-</td> <td width="50%" align="center">
-🤖 Project Two
-
-Una descripción corta e interesante de tu proyecto.
-
-Tech
-
-Python AI API
-
-🔗 Ver proyecto
-
-</td> </tr> <tr> <td width="50%" align="center">
-🌐 Project Three
-
-Una descripción corta e interesante de tu proyecto.
-
-Tech
-
-JavaScript HTML CSS
-
-🔗 Ver proyecto
-
-</td> <td width="50%" align="center">
-💡 Project Four
-
-Una descripción corta e interesante de tu proyecto.
-
-Tech
-
-Java SQL Git
-
-🔗 Ver proyecto
+Open to opportunities
 
 </td> </tr> </table>
 <div align="center">
-📈 GitHub Analytics
-<br> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D9FF&text_color=FFFFFF" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D9FF&currStreakLabel=FFFFFF" width="48%"/>
+02 — ARSENAL
+⚡ Technologies I Use
+<br> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,mysql,postgres,git,github,docker,vscode&perline=7&theme=dark"/> </div> <br> <table> <tr> <td align="center" width="25%">
+🎨 FRONTEND
 
-<br><br>
+Interfaces
+Experiences
+Responsive Design
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=FFFFFF&line=6C63FF&point=00D9FF&area=true&hide_border=true" width="95%"/> </div>
+</td> <td align="center" width="25%">
+⚙️ BACKEND
+
+APIs
+Logic
+Architecture
+
+</td> <td align="center" width="25%">
+🗄️ DATABASE
+
+SQL
+Data
+Optimization
+
+</td> <td align="center" width="25%">
+🔧 TOOLS
+
+Git
+Docker
+VS Code
+
+</td> </tr> </table>
 <div align="center">
-🎯 Currently
-<table> <tr> <td>🔭</td> <td><b>Working on</b></td> <td>Mis próximos proyectos</td> </tr> <tr> <td>🌱</td> <td><b>Learning</b></td> <td>Nuevas tecnologías</td> </tr> <tr> <td>💡</td> <td><b>Interested in</b></td> <td>Software & Innovation</td> </tr> <tr> <td>🚀</td> <td><b>Goal</b></td> <td>Become a better developer</td> </tr> </table> </div>
+03 — SELECTED WORK
+🚀 Things I've Built
+</div> <table> <tr> <td width="50%" valign="top">
+🟣 PROJECT / 01
+Project Name
+
+A short and powerful description of what your project does.
+
+Built with
+
+React Node.js PostgreSQL
+
+What I learned
+
+Architecture · APIs · Authentication
+
+<br> <a href="#"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+🔵 PROJECT / 02
+Project Name
+
+A short and powerful description of what your project does.
+
+Built with
+
+Python FastAPI MySQL
+
+What I learned
+
+Backend · Databases · Automation
+
+<br> <a href="#"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> <tr> <td width="50%" valign="top">
+🟢 PROJECT / 03
+Project Name
+
+A short and powerful description of what your project does.
+
+Built with
+
+JavaScript HTML CSS
+
+What I learned
+
+UI · UX · Responsive Design
+
+<br> <a href="#"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
+🟠 PROJECT / 04
+Project Name
+
+A short and powerful description of what your project does.
+
+Built with
+
+Java SQL Git
+
+What I learned
+
+OOP · Data · Software Design
+
+<br> <a href="#"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table>
 <div align="center">
-💬 Let's Build Something Amazing
-<br>
-
-¿Tienes una idea? Hagámosla realidad. 🚀
-
-<br>
+04 — ACTIVITY
+📊 GitHub
+<br> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%"/> <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="96%"/> </div>
+<div align="center">
+05 — CURRENTLY
+</div>
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🔭  BUILDING       →  New projects                        │
+│  🌱  LEARNING       →  New technologies                     │
+│  🧠  IMPROVING      →  Software architecture                │
+│  💡  EXPLORING      →  Ideas & innovation                    │
+│  🎯  FOCUS          →  Becoming a better developer           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+<div align="center">
+🌐 Let's Connect
+<br> <a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/> </a> <a href="mailto:TU_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
 <br><br>
 
-Code • Create • Learn • Repeat
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
+
+<br><br>
+
+BUILD. BREAK. LEARN. REPEAT.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer"/> </div>
